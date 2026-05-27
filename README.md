@@ -1,4 +1,4 @@
-# DisasterReady — Laravel Subject Project
+# SafeGuard — Laravel Subject Project
 
 A disaster preparedness platform built with Laravel 11. Covers the full MVC lifecycle, Eloquent ORM, resource controllers, form validation, sessions, localization, REST API, and more.
 
