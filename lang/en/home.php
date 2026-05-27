@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'title'            => 'Home',
+    'hero_tag'         => 'Disaster Preparedness Platform',
+    'hero_title'       => 'Be Ready.<br>Stay Safe.',
+    'hero_subtitle'    => 'Learn about disasters, build your emergency checklist, find local contacts, and share community knowledge — all in one place.',
+    'explore_cta'      => 'Explore Disasters',
+    'contacts_cta'     => 'Emergency Contacts',
+    'stat_disasters'   => 'Disaster Guides',
+    'stat_contacts'    => 'Emergency Contacts',
+    'stat_tips'        => 'Community Tips',
+    'featured_title'   => 'Most Viewed Disasters',
+    'featured_subtitle'=> 'The guides people are reading most',
+    'see_all'          => 'See all',
+    'how_title'        => 'How It Works',
+    'step1_title'      => 'Learn',
+    'step1_desc'       => 'Read in-depth guides on every major disaster type.',
+    'step2_title'      => 'Prepare',
+    'step2_desc'       => 'Build a personalised preparedness checklist.',
+    'step3_title'      => 'Connect',
+    'step3_desc'       => 'Find emergency contacts near you instantly.',
+    'step4_title'      => 'Share',
+    'step4_desc'       => 'Contribute your own tips to the community.',
+    'cta_title'        => 'Join the Community',
+    'cta_subtitle'     => 'Create a free account to save checklists, share tips, and stay prepared.',
+    'cta_button'       => 'Create Free Account',
+];
